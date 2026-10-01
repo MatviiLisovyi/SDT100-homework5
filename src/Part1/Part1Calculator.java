@@ -1,3 +1,8 @@
+/* • Author: Matvii Lisovyi
+• Course: SDT 100
+• Assignment: Homework3Part1
+• Date: 30.09.26
+AI Usage: No AI tools were used to write or generate this code.*/
 package Part1;
 
 import java.util.Scanner;
